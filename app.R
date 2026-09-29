@@ -1,7 +1,7 @@
 ####################################################################
 ## RoBDEMAT Visualizer
 ## Upload, edit, and visualize risk of bias assessments made with
-## RoBDEMAT (pre-clinical / in vitro dental materials research).
+## RoBDEMAT (pre-clinical dental materials research).
 ##
 ## Reference: Delgado AHS et al. RoBDEMAT: A risk of bias tool and
 ## guideline to support reporting of pre-clinical dental materials
@@ -244,7 +244,7 @@ bias_table <- function() {
 CITATION <- list(
   author_short = "[Author withheld for peer review]",
   author_full  = "[Author withheld for peer review]",
-  title = "RoBDEMAT Visualizer: a free web application for generating risk of bias figures for in-vitro dental materials studies",
+  title = "RoBDEMAT Visualizer: a free web application for generating risk of bias figures for pre-clinical dental materials studies",
   year = "2026",
   version = "1.0",
   url = "[URL withheld for peer review]"
@@ -530,7 +530,7 @@ ui <- navbarPage(
   tabPanel("About",
            fluidPage(
              h3("About this tool"),
-             p("This app visualizes risk-of-bias judgements made using ", strong("RoBDEMAT"), ", a tool for pre-clinical (in vitro) dental materials research developed by Delgado et al. (2022)."),
+             p("This app visualizes risk-of-bias judgements made using ", strong("RoBDEMAT"), ", a tool for pre-clinical dental materials research developed by Delgado et al. (2022)."),
              p("Reference: Delgado AHS, Sauro S, Lima AF, et al. RoBDEMAT: A risk of bias tool and guideline to support reporting of pre-clinical dental materials research and assessment of systematic reviews. ",
                em("J Dent."), " 2022;127:104350. ",
                a("https://doi.org/10.1016/j.jdent.2022.104350", href = "https://doi.org/10.1016/j.jdent.2022.104350", target = "_blank")),

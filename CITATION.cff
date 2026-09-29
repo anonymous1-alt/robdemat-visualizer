@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software in your research, please cite it as below."
-title: "RoBDEMAT Visualizer: a free web application for generating risk of bias figures for in-vitro dental materials studies"
+title: "RoBDEMAT Visualizer: a free web application for generating risk of bias figures for pre-clinical dental materials studies"
 type: software
 version: "1.0"
 date-released: 2026-09-28
