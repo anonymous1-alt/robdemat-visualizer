@@ -1,7 +1,7 @@
 # RoBDEMAT Visualizer
 
 A web tool for producing high-quality figures from **RoBDEMAT** (Risk of
-Bias Tool for Pre-clinical Dental Materials Research) assessments.
+Bias Tool for Pre-clinical Dental Materials Research) assessments, which can be accessed at: https://anonymous2.shinyapps.io/RoBDEMATvis/.
 
 You enter (or upload) the judgements you have already made for each study,
 and the app draws publication-ready **traffic light** and **summary** plots
