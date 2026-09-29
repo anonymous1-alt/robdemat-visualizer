@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+title: "RoBDEMAT Visualizer: a free web application for generating risk of bias figures for in-vitro dental materials studies"
+type: software
+version: "1.0"
+date-released: 2026-09-28
+authors:
+  - name: "[Author withheld for peer review]"
+# --- fill these in once you have them (delete a line if you don't need it) ---
+url: "[URL withheld for peer review]"
+# repository-code: "https://github.com/YOUR-USERNAME/robdemat-visualizer"   # add your GitHub link
+# doi: "10.5281/zenodo.XXXXXXX"   # add after your first Zenodo release
+license: MIT
